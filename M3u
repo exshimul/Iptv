@@ -1,0 +1,23 @@
+26.1.3:8089/amrbd/Ten3/playlist.m3u8
+#EXTINF:-1,ten sports (sb)
+http://172.26.1.3:8089/nimble_live/tensports/playlist.m3u8
+#EXTINF:-1,ptv sports (sb)
+http://172.26.1.3:8089/amrbd/PTV-Sports/playlist.m3u8
+#EXTINF:-1,bt sports (sb)
+http://172.26.1.3:8089/load/BT_sports2_int/playlist.m3u8
+#EXTINF:-1,sky football (sb)
+http://172.26.1.3:8089/nimble_live/skyfootball/playlist.m3u8
+#EXTINF:-1,sky cricket (sb)
+http://172.26.1.3:8089/nimble_live/skycricket/playlist.m3u8
+#EXTINF:-1,wwe hd (sb)
+http://172.26.1.3:8089/load/wwehd/playlist.m3u8
+#EXTINF:-1,inter 10 bangla
+http://103.132.181.118:82/play/a00n
+#EXTINF:-1,discovery hd bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1,anamal planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1,tlc
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1,tt
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
